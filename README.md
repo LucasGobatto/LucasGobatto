@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👋🌎🌍🌏!
 
-<!--
-**LucasGobatto/LucasGobatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
 
-Here are some ideas to get you started:
+- Studying Chemical Engineering at [POLI](https://www.poli.usp.br/) and a lover of programming.
+- 🔭 I’m currently working on [Taqtile](www.taqtile.com.br)
+- 🌱 I’m currently learning Backend Stuffs
+- 📈 Stats: </br><img src="https://github-readme-stats.vercel.app/api?username=LucasGobatto&show_icons=true&theme=tokyonight">
+- 📚 Languages: </br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGobatto&layout=compact">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: love play guitar and learn about technology.
+
+- 📫 How to reach me:
+    * E-mail: lucas.bisaio@live.com
+    * [LinkedIn](www.linkedin.com/in/lucas-gobatto-bisaio)
