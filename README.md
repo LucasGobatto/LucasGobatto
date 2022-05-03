@@ -2,7 +2,7 @@
 
 About me:
 
-- Studying Chemical Engineering at [POLI](https://www.poli.usp.br/) and a lover of programming.
+- Chemical Engineering at [POLI](https://www.poli.usp.br/) and a lover of programming.
 - 🔭 I’m currently working at [Pence.ai](https://pence.ai/)
 - 🌱 I’m currently learning Backend Stuffs
 - 📈 Stats: </br><img src="https://github-readme-stats.vercel.app/api?username=LucasGobatto&show_icons=true&theme=tokyonight">
