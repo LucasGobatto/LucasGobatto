@@ -12,4 +12,4 @@ About me:
 
 - 📫 How to reach me:
     * E-mail: lucas.bisaio@live.com
-    * <a href="www.linkedin.com/in/lucas-gobatto-bisaio" target="_blank">LinkedIn</a>
+    * LinkedIn: www.linkedin.com/in/lucas-gobatto-bisaio
