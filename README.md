@@ -2,9 +2,9 @@
 
 About me:
 
-- Chemical Engineer at [POLI](https://www.poli.usp.br/) and a lover of programming.
-- 🔭 I’m currently working at [Pence.ai](https://pence.ai/)
-- 🌱 I’m currently learning Backend Stuffs
+- Chemical Engineer by [POLI](https://www.poli.usp.br/) and a lover of programming.
+- 🔭 I’m currently working at [Taqtile](https://www.taqtile.com.br/)
+- 🌱 I’m currently learning Backend and Frontend Stuffs
 - 📈 Stats: </br><img src="https://github-readme-stats.vercel.app/api?username=LucasGobatto&show_icons=true&theme=tokyonight">
 - 📚 Languages: </br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGobatto&layout=compact">
 
