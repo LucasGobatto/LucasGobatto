@@ -1,7 +1,7 @@
 ### Sobre mim
 
 - Engenheiro Químico formado pela [POLI](https://www.poli.usp.br/) e amante da programação.
-- 🔭 Estiy atualmente trabando na [AllieHealth](https://www.alliehealth.com/)
+- 🔭 Estou atualmente trabando na [AllieHealth](https://www.alliehealth.com/)
 - 🌱 Desenvolvedor Full Stack
 - ⚡ Fun fact: Amo tocar violão e aprender sobre tecnologia.
 
